@@ -220,8 +220,8 @@ animation-duration: 2s;
 	width: 450px;
 	z-index: 300;
 	display: none;
-		background-size: cover;
-	    background-image: url("Queesito.JPEG"); 
+        background-size: cover;
+	background-image: url("Queesitop.png"); 
 }
 .con3{
 	position: absolute;
@@ -240,8 +240,8 @@ animation-duration: 2s;
 	width: 530px;
 	z-index: 300;
 	display: none;
-		background-size: cover;
-	    background-image: url("parasir.JPEG"); 
+	background-size: cover;
+	background-image: url("parasirp.png"); 
 }
 .con5{
 	position: absolute;
@@ -260,8 +260,8 @@ animation-duration: 2s;
 	width: 550px;
 	z-index: 300;
 	display: none;
-			background-size: cover;
-	    background-image: url("fun.JPEG"); 
+	background-size: cover;
+	background-image: url("funp.png"); 
 }
 .con7{
 	position: absolute;
@@ -280,8 +280,8 @@ animation-duration: 2s;
 	width: 540px;
 	z-index: 300;
 	display: none;
-			background-size: cover;
-	    background-image: url("estru.JPG"); 
+	background-size: cover;
+	background-image: url("estrup.png"); 
 }
 .con9{
 	position: absolute;
@@ -300,7 +300,7 @@ animation-duration: 2s;
 	width: 350px;
 	z-index: 300;
 	display: none;
-	    background-image: url("rapid.JPEG"); 
+        background-image: url("rapidp.png"); 
 }
 .con11{
 	position: absolute;
@@ -319,8 +319,8 @@ animation-duration: 2s;
 	width: 360px;
 	z-index: 300;
 	display: none;
-				background-size: cover;
-	    background-image: url("mac.JPEG"); 
+	background-size: cover;
+        background-image: url("macp.png"); 
 }
 
 .b1:hover .con1{
